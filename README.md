@@ -1,5 +1,5 @@
 # miniwallet
-This project is a mini Ethereum wallet in which you can create transactions for Ethereum using GetBlock!
+This project is a mini crypto Ethereum wallet in which you can create transactions for Ethereum utilizing GetBlock and web3.js!
 instructions: (If you run those following steps you only need to download the miniwallet.js file only!)
 1) open terminal
 2) npm init --y in the terminal to create the first package JSON file
